@@ -1,0 +1,5 @@
+E:\С#задания\AnimalNursery\obj\Debug\net6.0\AnimalNursery.csproj.AssemblyReference.cache
+E:\С#задания\AnimalNursery\obj\Debug\net6.0\AnimalNursery.GeneratedMSBuildEditorConfig.editorconfig
+E:\С#задания\AnimalNursery\obj\Debug\net6.0\AnimalNursery.AssemblyInfoInputs.cache
+E:\С#задания\AnimalNursery\obj\Debug\net6.0\AnimalNursery.AssemblyInfo.cs
+E:\С#задания\AnimalNursery\obj\Debug\net6.0\AnimalNursery.csproj.CoreCompileInputs.cache
